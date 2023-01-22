@@ -81,9 +81,6 @@ setuptools==65.6.3
 sip==6.6.2
 six==1.16.0
 soupsieve==2.3.2.post1
-tensorboard==2.10.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
 tensorflow==2.10.0
 tensorflow-estimator==2.10.0
 termcolor==2.1.0
@@ -100,3 +97,4 @@ wincertstore==0.2
 wrapt==1.14.1
 yarl==1.8.1
 yfinance==0.2.2
+gunicorn==20.1.0
